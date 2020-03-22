@@ -18,13 +18,26 @@ Pantheon supports the following **states** for a workflow. Each is expected to b
 
 ### Metadata
 
-A workflow project is expected to provide the following metadata, to provide information for searching projects, and a summary of how to use the project:
+A workflow project is expected to provide the following metadata, to provide information for searching projects, and a summary of how to use the project. This metadata is included in a `pantheon.yml` file in the project repository. A formal schema can be found in the [Pantheon Specification](/spec/)
 
-- Project name. The name of the project to which this workflow belongs.
-- Workflow name. The name of the workflow. 
-- Scope. The scope of the workflow. This is a description that
-- Pantheon state. One of the Pantheon states.
-- Contact information. Contact information for the workflow.
+```
+pantheon:
+    version: 1.0
+    state: research
+
+project:
+    name: ECP
+    website: website.com
+
+workflow:
+    name: Test_workflow_001
+    scope: This workflow tests an in-situ analysis of Code, in-situ algorithms and Cinema output
+
+contact: 
+    name: Person Name
+    email: person@place.com
+
+```
 
 **Questions?** Contact us [here](mailto:pantheon-help@lanl.gov).
 
