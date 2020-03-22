@@ -17,9 +17,9 @@ Pantheon supports the following **states** for a workflow. Each is expected to b
 
 States are designated on a project page with the following images:
 
-- [release](/states/release.png)
-- [development](/states/development.png)
-- [research](/states/research.png)
+- ![release](/states/release.png)
+- ![development](/states/development.png)
+- ![research](/states/research.png)
 
 ### Metadata
 
