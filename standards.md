@@ -30,8 +30,9 @@ project:
     website: website.com
 
 workflow:
-    name: Test_workflow_001
-    scope: This workflow tests an in-situ analysis of Code, in-situ algorithms and Cinema output
+    name:  Test_workflow_001
+    scope: This workflow tests an in-situ analysis of Code, 
+           in-situ algorithms and Cinema output
 
 contact: 
     name: Person Name
