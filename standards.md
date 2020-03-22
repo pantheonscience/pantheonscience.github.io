@@ -18,24 +18,25 @@ Pantheon supports the following **states** for a workflow. Each is expected to b
 
 ### Metadata
 
-A workflow project is expected to provide the following metadata, to provide information for searching projects, and a summary of how to use the project. This metadata is included in a `pantheon.yml` file in the top level of the project repository. A formal schema can be found in the [Pantheon Specification](/spec/)
+A workflow project is required to provide the following metadata, for version checking and attribute searching. This metadata is included in a `pantheon.yml` file in the top level of the project repository. A formal schema can be found in the [Pantheon Specification](/spec/)
 
 ```
 pantheon:
-    version: string # version string 
-    state: string # one of the Pantheon states
+    version: string  # version string 
+    state: string    # one of the Pantheon states
 
 project:
     name: string  
-    website: string # optional
+    website: string   # optional
 
 workflow:
-    name:  string 
-    desc: string # a short description of the workflow
+    name: string 
+    desc: string   # a short description of the workflow
+    applications: list of string   # a list of applications
            
 contact: 
     name: string  
-    email: string # valid email string 
+    email: string
 
 ```
 
