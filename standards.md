@@ -26,7 +26,7 @@ A workflow project is required to provide the following metadata, for version ch
 
 ```
 pantheon:
-    version: string  # Pantheon version string 
+    version: 1.0 
     state: string    # Pantheon state
 
 project:
