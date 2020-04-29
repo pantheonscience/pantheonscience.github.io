@@ -18,6 +18,6 @@ A prime motivation for *Pantheon*, and a first example of its use is for the [Ex
     - Permanent records of the ECP Milestones
     - Examples and starting points for those wondering how a science simulation, the in-situ infrastructure, and post-processing work on the target platform.
 
-- The [ECP-Exampleshttps://github.com/pantheonscience/ECP-Examples](https://github.com/pantheonscience/ECP-Artifacts/tree/master/artifacts) repository is a set of examples using ECP applications, in-situ and post-processing capabilities. These serve as:
+- The [ECP-Examples](https://github.com/pantheonscience/ECP-Artifacts/tree/master/artifacts) repository is a set of examples using ECP applications, in-situ and post-processing capabilities. These serve as:
     - A set of *how-to* examples for ECP workflows
     - A starting point for your own explorations. Start from something that works end-to-end and adapt it for your own needs. 
