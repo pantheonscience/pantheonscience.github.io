@@ -26,17 +26,19 @@ A workflow project is required to provide the following metadata, for version ch
 
 ```
 pantheon:
-    version: string  # version string 
-    state: string    # one of the Pantheon states
+    version: string  # Pantheon version string 
+    state: string    # Pantheon state
 
 project:
-    name: string  
-    website: string   # optional
+    name: string     # Pantheon project name 
+    website: string  # optional
 
 workflow:
-    name: string 
-    desc: string   # a short description of the workflow
-    applications: list of string   # a list of applications
+    pantheonid: string # Pantheon ID 
+    desc: string 
+    workflow_app: string
+    workflow_in-situ: string
+    workflow_post-processing: string
            
 contact: 
     name: string  
