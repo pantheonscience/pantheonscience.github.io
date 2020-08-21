@@ -3,7 +3,7 @@ author:
   name: 
   email: pantheon@lanl.gov
 description: > # this means to ignore newlines until "show_excerpts:"
-    Reproducible Workflows for Extreme Scale Science. 
+    Reproducible Workflows for Extreme Scale Science. (LA-UR-20-22565)
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
