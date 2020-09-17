@@ -26,4 +26,4 @@ A prime motivation for *Pantheon*, and a first example of its use is for the [Ex
 
 Closely related to the Exascale Computing Project is the Extreme-scale Scientific Software Stack. This is a "community effort community effort to provide open source software packages for developing, deploying and running scientific applications on high-performance computing (HPC) platforms. E4S provides from-source builds and containers of a broad collection of HPC software packages." [1](https://e4s-project.github.io/)
 
-The Pantheon/E4S collaboration encompasses many aspects of worklflow development, and additional details can be found on the project [page](e4s.html).
+The Pantheon/E4S collaboration encompasses many aspects of worklflow development, and additional details can be found on the project [page](e4s).
