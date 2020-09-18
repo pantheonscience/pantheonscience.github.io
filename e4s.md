@@ -15,15 +15,12 @@ The Pantheon and E4S projects are collaborating to advance the integration and t
 - **The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
 
 ## Contributions
+
 Contributions of this collaboration include:
 
 - The capture and curation of examples of end-to-end workflows that integrate ECP applications, in-situ infrastructure, and post-processing analysis in a reproducible framework for targeted architectures (Summit, etc.).
 
 - The ability for anyone - scientist, developer, student or researcher - to download, build and execute end-to-end examples of integrated ECP technologies working together to run, produce data, and post-process the results.
-
-    - The capability for anyone to start with a working example of an end-to-end workflow, without having to consult dozens of examples, documents and code snippets to get something working.
-
-    - The capability for anyone to experiment with alternate workflows, changing small pieces of the overall workflows, to promote an integrated approach to development and testing.
 
 - Integration of ECP technologies to build specific versions (commits) of key ECP products by using spack builds to curate specific version sets of software.
 
