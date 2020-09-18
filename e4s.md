@@ -22,7 +22,7 @@ Contributions of this collaboration include:
 
 - The ability for anyone - scientist, developer, student or researcher - to download, build and execute end-to-end examples of integrated ECP technologies working together to run, produce data, and post-process the results.
 
-- Integration of ECP technologies to build specific versions (commits) of key ECP products by using spack builds to curate specific version sets of software.
+- Integration of ECP technologies to build specific sets of versions (commits) of key ECP products by using curated spack builds.
 
 - Optimization of build time through the use of E4S caches of pre-built applications. This significantly reduces - by orders of magnitude - the time it takes to build novel workflows, experiment with changes to the workflows, and test the results against integrated capabilities.
 
