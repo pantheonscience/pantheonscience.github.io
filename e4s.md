@@ -12,5 +12,7 @@ The Extreme-scale Scientific Software Stack ((E4S))[https://e4s.io/] is a "commu
 
 - **The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
 
-Pantheon workflows that take advantage of E4S deployment are found [here](https://github.com/pantheonscience/ECP-E4S-Examples).
+## Repositories
+
+Pantheon workflows that take advantage of E4S deployment are found [in this repository](https://github.com/pantheonscience/ECP-E4S-Examples).
 
