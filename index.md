@@ -13,8 +13,6 @@ list_title: News
 
 ### The Pantheon Project: Reproducible Workflows for Extreme Scale Science
 
-{% include ecp_image_link.html %}
-
 Scientific computing is a complex undertaking, involving a myriad of technologies - specialized hardware, software, configurations and version control - all working together to produce large scale data and scientific insight.
 
 An outstanding need is a way to preserve, communicate and validate workflows that cross all of these boundaries, providing both real examples of end-to-end workflows, and permanent records of these workflows for archival purposes.
