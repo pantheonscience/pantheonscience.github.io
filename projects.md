@@ -16,6 +16,8 @@ A prime motivation for *Pantheon*, and a first example of its use is for Cinema 
 [(E4S)](https://e4s.io/) Spack and other ECP technologies.
 E4S is a "community effort community effort to provide open source software packages for developing, deploying and running scientific applications on high-performance computing (HPC) platforms. E4S provides from-source builds and containers of a broad collection of HPC software packages." [1](https://e4s.io/) Additional details about this collaboration can be found on the project [page](/projects/e4s).
 
+- We have deprecated a repository of ECP Examples that are no longer supported, and do not contain currently useful information. These examples are available upon request.
+
 - We maintain an internal repository of records of ECP Milestone artifacts, which are available on request. These serve as:
     - Permanent records of the ECP Milestones
     - Examples and starting points for those wondering how a science simulation, the in-situ infrastructure, and post-processing work on the target platform.
