@@ -5,8 +5,7 @@ title: E4S Collaboration permalink: /e4s
 
 The ECP is a complex undertaking, involving a myriad of technologies - specialized hardware, advanced simulations and software, input and configuration information, and complex interactions of many versions of software - all working in concert to perform scientific simulation, analysis and insight.
 
-An outstanding need is a way to capture, communicate and validate workflows that cross all of these boundaries, providing both real examples of end-to-end workflows, and permanent records of these workflows for archival purposes
-The Pantheon and E4S projects are collaborating to advance the integration and testing of capabilities, and to promote understanding of the complex workflows utilized by the ECP project.
+An outstanding need is a way to capture, communicate and validate workflows that cross all of these boundaries, providing both real examples of end-to-end workflows, and permanent records of these workflows for archival purposes The Pantheon and E4S projects are collaborating to advance the integration and testing of capabilities, and to promote understanding of the complex workflows utilized by the ECP project.
 
 
 - **The Pantheon Project** captures and curates immutable, reproducible, and reusable experiment pipelines on target infrastructures.
@@ -29,7 +28,7 @@ Contributions of this collaboration include:
 
 ## Repositories
 
-- [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
+### [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
 
 ```
 (log on to summit)
