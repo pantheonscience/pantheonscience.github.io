@@ -1,7 +1,6 @@
 ---
 layout: page
-title: E4S Collaboration 
-permalink: /projects/e4s/
+title: E4S Collaboration permalink: /projects/e4s/
 ---
 
 The ECP is a complex undertaking, involving a myriad of technologies - specialized hardware, advanced simulations and software, input and configuration information, and complex interactions of many versions of software - all working in concert to perform scientific simulation, analysis and insight.
@@ -30,5 +29,16 @@ Contributions of this collaboration include:
 
 ## Repositories
 
-Pantheon workflows that take advantage of E4S deployment are found [in this repository](https://github.com/pantheonscience/ECP-E4S-Examples).
+- [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
+
+```
+(log on to summit)
+
+git clone https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git
+cd 2020-08_miniapp-examples
+git checkout 8c6ddc49e58a53db77c62785467022177a979789
+
+(edit bootstrap.env file per instructions)
+./execute
+```
 
