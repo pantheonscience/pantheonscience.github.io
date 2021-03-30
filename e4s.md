@@ -1,6 +1,6 @@
 ---
 layout: page
-title: E4S Collaboration permalink: /projects/e4s/
+title: E4S Collaboration permalink: /e4s
 ---
 
 The ECP is a complex undertaking, involving a myriad of technologies - specialized hardware, advanced simulations and software, input and configuration information, and complex interactions of many versions of software - all working in concert to perform scientific simulation, analysis and insight.
