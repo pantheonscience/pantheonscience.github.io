@@ -18,7 +18,7 @@ An outstanding need is a way to capture, communicate and validate workflows that
 
 ## Repositories
 
-- [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
+[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
 
 ```
 (log on to summit)
@@ -31,7 +31,7 @@ git checkout 8c6ddc49e58a53db77c62785467022177a979789
 ./execute
 ```
 
-- [Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02)
+[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02)
 An example that runs a Nyx workflow and creates a Cinema database. To run the workflow:
 
 ```
