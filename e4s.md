@@ -28,7 +28,9 @@ Contributions of this collaboration include:
 
 ## Repositories
 
-### [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
+### [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). 
+
+An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
 
 ```
 (log on to summit)
