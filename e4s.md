@@ -17,26 +17,19 @@ An outstanding need is a way to capture, communicate and validate workflows that
 ## Repositories
 |  |   |
 |--|---|
-|name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789) |
-|desc|An example that runs a cloverleaf3d workflow and creates a Cinema database.|
+|name      | [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789) |
+|desc      | An example that runs a cloverleaf3d workflow and creates a Cinema database.|
 |repository| git clone https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git |
-|commit | 8c6ddc49e58a53db77c62785467022177a979789 |
+|commit    | 8c6ddc49e58a53db77c62785467022177a979789 |
 
 
-### [Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02)
+|  |   |
+|--|---|
+|name      | [Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02)|
+|desc      | An example that runs a Nyx workflow and creates a Cinema database.|
+|repository| git clone https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
+|commit    | 6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02 |
 
-An example that runs a Nyx workflow and creates a Cinema database. To run the workflow:
-
-```
-(log on to summit)
-
-git clone https://github.com/cinemascienceworkflows/2020-10_Nyx.git
-cd 2020-10_Nyx 
-git checkout 6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02
-
-(edit bootstrap.env file per instructions)
-./execute
-```
 
 ## Contributions
 
