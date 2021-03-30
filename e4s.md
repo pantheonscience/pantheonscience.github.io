@@ -21,6 +21,8 @@ An outstanding need is a way to capture, communicate and validate workflows that
 
 ## Workflows
 
+This is the approved set of workflows for the E4S collaboration project. The links below provide detailed information and instructions for each workflow, as well as repository and commit ID's.
+
 |          |   |
 |----------|---|
 |name      | [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789) |
