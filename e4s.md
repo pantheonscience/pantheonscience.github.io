@@ -28,7 +28,7 @@ An outstanding need is a way to capture, communicate and validate workflows that
 |----------|---|
 |name      | [Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02)|
 |desc      | An example that runs a Nyx workflow and creates a Cinema database.|
-|repository| git clone https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
+|repository| https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
 |commit    | 6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02 |
 
 
