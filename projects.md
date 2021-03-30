@@ -26,13 +26,13 @@ E4S is a "community effort community effort to provide open source software pack
 - [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789). An example that runs a cloverleaf3d workflow and creates a Cinema database. To run the workflow:
 
 ```
-    (log on to summit)
+(log on to summit)
 
-    git clone https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git
-    cd 2020-08_miniapp-examples
-    git checkout 8c6ddc49e58a53db77c62785467022177a979789
+git clone https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git
+cd 2020-08_miniapp-examples
+git checkout 8c6ddc49e58a53db77c62785467022177a979789
 
-    edit bootstrap.env file per instructions
-    ./execute
+(edit bootstrap.env file per instructions)
+./execute
 ```
 
