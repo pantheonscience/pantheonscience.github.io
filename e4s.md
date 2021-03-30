@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Pantheon/E4S Collaboration permalink: /e4s
+title: Pantheon E4S Collaboration permalink: /e4s
 ---
 
-## Pantheon/E4S Collaboration Project
+## Pantheon E4S Collaboration Project
 
 The ECP is a complex undertaking, involving a myriad of technologies - specialized hardware, advanced simulations and software, input and configuration information, and complex interactions of many versions of software - all working in concert to perform scientific simulation, analysis and insight.
 
