@@ -3,7 +3,7 @@ layout: page
 title: Pantheon/E4S Collaboration permalink: /e4s
 ---
 
-## Pantheon/E4S Collaboration
+## Pantheon/E4S Collaboration Project
 
 The ECP is a complex undertaking, involving a myriad of technologies - specialized hardware, advanced simulations and software, input and configuration information, and complex interactions of many versions of software - all working in concert to perform scientific simulation, analysis and insight.
 
@@ -14,7 +14,7 @@ An outstanding need is a way to capture, communicate and validate workflows that
 
 - **The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
 
-## Repositories
+## Workflows
 
 |          |   |
 |----------|---|
