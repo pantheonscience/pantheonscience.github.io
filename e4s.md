@@ -20,7 +20,7 @@ An outstanding need is a way to capture, communicate and validate workflows that
 |----------|---|
 |name      | [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789) |
 |desc      | An example that runs a cloverleaf3d workflow and creates a Cinema database.|
-|repository| git clone https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git |
+|repository| https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git |
 |commit    | 8c6ddc49e58a53db77c62785467022177a979789 |
 
 
