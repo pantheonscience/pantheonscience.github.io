@@ -15,16 +15,17 @@ An outstanding need is a way to capture, communicate and validate workflows that
 - **The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
 
 ## Repositories
-|a|a|
-|--|---|
+
+|          |   |
+|----------|---|
 |name      | [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789) |
 |desc      | An example that runs a cloverleaf3d workflow and creates a Cinema database.|
 |repository| git clone https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git |
 |commit    | 8c6ddc49e58a53db77c62785467022177a979789 |
 
 
-|  |   |
-|--|---|
+|          |   |
+|----------|---|
 |name      | [Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02)|
 |desc      | An example that runs a Nyx workflow and creates a Cinema database.|
 |repository| git clone https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
