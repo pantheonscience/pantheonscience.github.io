@@ -26,7 +26,7 @@ A workflow project is required to provide the following metadata, for version ch
 
 ```
 pantheon:
-    version: 1.0 
+    version: 1.2 
     state: string    # Pantheon state
 
 project:
@@ -36,9 +36,12 @@ project:
 workflow:
     pantheonid: string # Pantheon ID 
     desc: string 
+    cinema_db: string # output cinema database
     workflow_app: string
     workflow_in-situ: string
     workflow_post-processing: string
+    repository: URL
+    repository-commit: commit ID
            
 contact: 
     name: string  
