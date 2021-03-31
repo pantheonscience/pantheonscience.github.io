@@ -12,7 +12,7 @@ An outstanding need is a way to capture, communicate and validate workflows that
 
 **The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
 
-## Workflows
+### Requirements
 
 This is the approved set of workflows for the E4S collaboration project. The links below provide detailed information and instructions for each workflow, as well as repository and commit ID's.
 
@@ -26,6 +26,16 @@ git clone <repository>
 cd <repository>
 git checkout <commit>
 ```
+### Workflow Template
+
+This is the template for new workflows used by this project. To start a new workflow, either start with this template, or create a branch from a released workflow that aligns with your work. 
+
+|          |   |
+|----------|---|
+|repository| https://github.com/cinemascienceworkflows/pantheon-template.git |
+|commit    | 064e2812a0c677c5e2d65dadfcedba5f4f7cc517 |
+
+### Workflows
 
 |          |   |
 |----------|---|
@@ -41,17 +51,3 @@ git checkout <commit>
 |desc      | An example that runs a Nyx workflow and creates a Cinema database.|
 |repository| https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
 |commit    | 6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02 |
-
-
-## Contributions
-
-Contributions of this collaboration include:
-
-- The capture and curation of examples of end-to-end workflows that integrate ECP applications, in-situ infrastructure, and post-processing analysis in a reproducible framework for targeted architectures (Summit, etc.).
-
-- The ability for anyone - scientist, developer, student or researcher - to download, build and execute end-to-end examples of integrated ECP technologies working together to run, produce data, and post-process the results.
-
-- Integration of ECP technologies to build specific sets of versions (commits) of key ECP products by using curated spack builds.
-
-- Optimization of build time through the use of E4S caches of pre-built applications. This significantly reduces - by orders of magnitude - the time it takes to build novel workflows, experiment with changes to the workflows, and test the results against integrated capabilities.
-
