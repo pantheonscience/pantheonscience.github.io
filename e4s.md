@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project: E4S 
+title: Project E4S 
 permalink: /e4s/
 ---
 
