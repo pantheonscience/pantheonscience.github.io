@@ -40,8 +40,6 @@ workflow:
     workflow_workflow_app: string
     workflow_workflow_in-situ: string
     workflow_workflow_post-processing: string
-    workflow_repository: URL
-    workflow_repository-commit: commit ID
            
 contact: 
     contact_name: string  
@@ -66,8 +64,6 @@ workflow:
     workflow_workflow_app: string; optional
     workflow_workflow_in-situ: string; optional
     workflow_workflow_post-processing: string; optional
-    workflow_repository: URL; required
-    workflow_repository-commit: commit ID; required
            
 contact: 
     contact_name: string; required  
