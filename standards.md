@@ -48,5 +48,31 @@ contact:
     contact_email: string
 ```
 
+Constraints on metadata:
+
+```
+pantheon:
+    pantheon_version: pantheon version string; required
+    pantheon_state: a valid Pantheon state; required 
+
+project:
+    project_name: a unique identifier in the Pantheon namespace; required 
+    project_website: string; optional
+
+workflow:
+    workflow_name: a unique identifier within a project. can include spaces; required
+    workflow_desc: string; optional 
+    workflow_cinema-db: string; optional; default: pantheon.cdb
+    workflow_workflow_app: string; optional
+    workflow_workflow_in-situ: string; optional
+    workflow_workflow_post-processing: string; optional
+    workflow_repository: URL; required
+    workflow_repository-commit: commit ID; required
+           
+contact: 
+    contact_name: string; required  
+    contact_email: email; required
+```
+
 **Questions?** Contact us [here](mailto:pantheon-help@lanl.gov).
 
