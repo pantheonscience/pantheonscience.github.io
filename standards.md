@@ -27,16 +27,16 @@ A workflow project is required to provide the following metadata, for version ch
 ```
 pantheon:
     version: 1.2 
-    state: string    # Pantheon state
+    state: string
 
 project:
-    name: string     # Pantheon project name 
-    website: string  # optional
+    name: string
+    website: string
 
 workflow:
-    pantheonid: string # Pantheon ID 
+    pantheonid: string
     desc: string 
-    cinema_db: string # output cinema database
+    cinema_db: string
     workflow_app: string
     workflow_in-situ: string
     workflow_post-processing: string
@@ -46,7 +46,6 @@ workflow:
 contact: 
     name: string  
     email: string
-
 ```
 
 **Questions?** Contact us [here](mailto:pantheon-help@lanl.gov).
