@@ -18,7 +18,14 @@ Pantheon supports the following **states** for a workflow. Each is expected to b
 - **Research** The workflow is an example that is of use to the community, but may not be supported at all times. A **research** workflow is not required to be headed towards a **development/release** state. It is not required to be continuously updated and tested on target platforms. Publishers are expected to actively field questions about the workflow, so that it can be of use to the broader community.
     - [![research](https://pantheonscience.github.io/states/research.png)](https://pantheonscience.github.io/standards/) This link is used to designate a research workflow.
 
+### Pantheon Stages
 
+A Pantheon workflow shall contain the following required and optional stages:
+
+- **install** Required. Install required executables
+- **run** Required. Run the main loop of the workflow 
+- **postprocess** Optional. Perform any post-processing on data that results from the **run** stage
+- **validate** Required. Validate the expected final data
 
 ### Metadata
 
