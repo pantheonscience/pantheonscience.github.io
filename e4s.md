@@ -51,3 +51,13 @@ This is the template for new workflows used by this project. To start a new work
 |desc      | An example that runs a Nyx workflow and creates a Cinema database.|
 |repository| https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
 |commit    | 6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02 |
+
+### Contact
+
+<table>
+<tr>
+    <td>contact:</td>
+    <td>David Rogers dhr@lanl.gov</td>
+</tr>
+</table>
+
