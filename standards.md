@@ -29,7 +29,7 @@ A Pantheon workflow shall contain the following required and optional stages:
 
 ### Metadata
 
-A workflow project is required to provide the following metadata, for version checking and attribute searching. This metadata is included in a `pantheon/pantheon.yml` file in the project repository.
+A workflow project is required to provide the following metadata, for version checking and attribute searching. This metadata is included in a `pantheon.yml` file in the workflow repository. Pantheon projects may add additional metadata, but that metadata will be ignored by Pantheon-level workflows.
 
 ```
 pantheon:
