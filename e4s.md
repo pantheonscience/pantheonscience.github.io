@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pantheon E4S Collaboration 
+title: E4S Project 
 permalink: /e4s/
 ---
 
