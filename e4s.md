@@ -41,7 +41,7 @@ This is the template for new workflows used by this project. To start a new work
 |name      | [Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/8c6ddc49e58a53db77c62785467022177a979789) |
 |desc      | An example that runs a cloverleaf3d workflow and creates a Cinema database.|
 |repository| https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git |
-|commit    | 8c6ddc49e58a53db77c62785467022177a979789 |
+|commit    | 3d4b183739e074bdb655b99b0bf1a46a1088e675 |
 
 
 |          |   |
@@ -49,7 +49,7 @@ This is the template for new workflows used by this project. To start a new work
 |name      | [Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02)|
 |desc      | An example that runs a Nyx workflow and creates a Cinema database.|
 |repository| https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
-|commit    | 6f3e75c5b28a175a5e8a71612d4c307a2c6f9c02 |
+|commit    | 1aa53d67d5178e6f31fac049049e3d0157547495 |
 
 ### Contact
 
