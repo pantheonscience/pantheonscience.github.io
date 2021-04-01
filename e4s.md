@@ -33,6 +33,7 @@ This is the template for new workflows used by this project. To start a new work
 |----------|---|
 |repository| https://github.com/cinemascienceworkflows/pantheon-template.git |
 |commit    | 064e2812a0c677c5e2d65dadfcedba5f4f7cc517 |
+|verified  | Date/person |
 
 ### Workflows
 
@@ -42,6 +43,7 @@ This is the template for new workflows used by this project. To start a new work
 |desc      | An example that runs a cloverleaf3d workflow and creates a Cinema database.|
 |repository| https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git |
 |commit    | 3d4b183739e074bdb655b99b0bf1a46a1088e675 |
+|verified  | Date/person |
 
 
 |          |   |
@@ -50,6 +52,7 @@ This is the template for new workflows used by this project. To start a new work
 |desc      | An example that runs a Nyx workflow and creates a Cinema database.|
 |repository| https://github.com/cinemascienceworkflows/2020-10_Nyx.git |
 |commit    | 1aa53d67d5178e6f31fac049049e3d0157547495 |
+|verified  | Date/person |
 
 ### Contact
 
