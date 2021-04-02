@@ -29,8 +29,8 @@ git checkout <commit>
 
 This is the template for new workflows used by this project. To start a new workflow, either start with this template, or create a branch from a released workflow that aligns with your work. 
 
-|          |   |
-|----------|---|
+|||
+|-|-|
 |repository| https://github.com/cinemascienceworkflows/pantheon-template.git |
 |commit    | 064e2812a0c677c5e2d65dadfcedba5f4f7cc517 |
 
