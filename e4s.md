@@ -43,7 +43,8 @@ This is the template for new workflows used by this project. To start a new work
 |desc      | An example that runs a cloverleaf3d workflow and creates a Cinema database.|
 |repository| https://github.com/cinemascienceworkflows/2020-08_miniapp-example.git |
 |commit    | 3d4b183739e074bdb655b99b0bf1a46a1088e675 |
-|verified  | Date/person |
+|verified  | 4.1.21/JCampbell |
+|comments  | Image on Firefox, Jupyter in progress |
 
 
 |          |   |
