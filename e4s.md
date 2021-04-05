@@ -43,6 +43,7 @@ This is the template for new workflows used by this project. To start a new work
 |repository|https://github.com/cinemascienceworkflows/2020-08_miniapp-example|
 |commit|3d4b183739e074bdb655b99b0bf1a46a1088e675|
 |citation|[citation](https://github.com/pantheonscience/workflows/tree/master/entry/E4S/Ascent_Miniapp_Workflow/pantheon_workflow.bib)|
+|Run: JC 4.5.21.12.30 F |
 
 |||
 |-|-|
@@ -51,6 +52,7 @@ This is the template for new workflows used by this project. To start a new work
 |repository|https://github.com/cinemascienceworkflows/2020-10_Nyx|
 |commit|1aa53d67d5178e6f31fac049049e3d0157547495|
 |citation|[citation](https://github.com/pantheonscience/workflows/tree/master/entry/E4S/Ascent_Miniapp_Workflow/pantheon_workflow.bib)|
+|Run: JC 4.5.21.12.39 F |
 
 ### Contact
 
