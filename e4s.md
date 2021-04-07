@@ -34,7 +34,7 @@ git checkout <commit>
 |desc|Pantheon workflow designed for E4S integration|
 |repository|https://github.com/cinemascienceworkflows/2020-08_miniapp-example|
 |commit|1fc5f476ded1bca97aab0f8832fb4bd0cd69ef1b|
-|date|07/04/2021 09:19:12 MDT|
+|date|07 Apr 2021 09:42:08 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Ascent_Miniapp_Workflow/pantheon_workflow.bib)|
 
 |||
@@ -43,7 +43,7 @@ git checkout <commit>
 |desc|Pantheon sampling workflow|
 |repository|https://github.com/cinemascienceworkflows/2020-10_Nyx|
 |commit|1aa53d67d5178e6f31fac049049e3d0157547495|
-|date|07/04/2021 09:19:57 MDT|
+|date|07 Apr 2021 09:42:25 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
 
 ### Workflow Template
