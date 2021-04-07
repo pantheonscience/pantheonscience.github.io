@@ -25,14 +25,6 @@ git clone <repository>
 cd <repository>
 git checkout <commit>
 ```
-### Workflow Template
-
-This is the template for new workflows used by this project. To start a new workflow, either start with this template, or create a branch from a released workflow that aligns with your work. 
-
-|||
-|-|-|
-|repository| https://github.com/cinemascienceworkflows/pantheon-template.git |
-|commit    | 064e2812a0c677c5e2d65dadfcedba5f4f7cc517 |
 
 ### Workflows
 
@@ -53,6 +45,15 @@ This is the template for new workflows used by this project. To start a new work
 |commit|1aa53d67d5178e6f31fac049049e3d0157547495|
 |date|07/04/2021 09:19:57 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
+
+### Workflow Template
+
+This is the template for new workflows used by this project. To start a new workflow, either start with this template, or create a branch from a released workflow that aligns with your work. 
+
+|||
+|-|-|
+|repository| https://github.com/cinemascienceworkflows/pantheon-template.git |
+|commit    | 064e2812a0c677c5e2d65dadfcedba5f4f7cc517 |
 
 ### Contact
 
