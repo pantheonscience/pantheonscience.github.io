@@ -30,20 +30,20 @@ git checkout <commit>
 
 |||
 |-|-|
-|name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2020-08_miniapp-example/tree/1fc5f476ded1bca97aab0f8832fb4bd0cd69ef1b)|
+|name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent/tree/4bfd76d860ca12b874c1b52efbdc4a29a9fd7dfc)|
 |desc|Pantheon workflow designed for E4S integration|
-|repository|https://github.com/cinemascienceworkflows/2020-08_miniapp-example|
-|commit|1fc5f476ded1bca97aab0f8832fb4bd0cd69ef1b|
-|date|07 Apr 2021 09:42:08 MDT|
-|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Ascent_Miniapp_Workflow/pantheon_workflow.bib)|
+|repository|https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent|
+|commit|4bfd76d860ca12b874c1b52efbdc4a29a9fd7dfc|
+|date|08 Apr 2021 11:29:13 MDT|
+|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Miniapp_Ascent_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
-|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2020-10_Nyx/tree/1aa53d67d5178e6f31fac049049e3d0157547495)|
+|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/361e33dcb2e76205ce36f36e38c8dcad18191e4c)|
 |desc|Pantheon sampling workflow|
-|repository|https://github.com/cinemascienceworkflows/2020-10_Nyx|
-|commit|1aa53d67d5178e6f31fac049049e3d0157547495|
-|date|07 Apr 2021 09:42:25 MDT|
+|repository|https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent|
+|commit|361e33dcb2e76205ce36f36e38c8dcad18191e4c|
+|date|08 Apr 2021 11:30:58 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
 
 ### Workflow Template
