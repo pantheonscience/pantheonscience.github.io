@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-*Pantheon* is an intersection of reproducibility, workflows and examples. 
-Critically, *projects can determine the level of effort* they expend to participate in *Pantheon*, based on the value of having the project's workflows available to the community.
+*Pantheon* is an intersection of reproducibility, workflows and examples. It is a home for examples of
+reproducible workflows for scientific computing. Projects determine the scope and the design and level 
+of effort needed to publish their workflows.
 The goal is to provide maximum community impact with a minimal set of additional work. 
+
+- A **Project** is a collection of workflows with a well-defined scope and goal, defined by a common workflow template.</li>
+- A **Template** is a workflow pattern. </li>
+- A **Workflow** is a reproducible set of operations, based on a template. A workflow is defined by a URL for a git repository and a specific  git commit.
 
 ## Using a published Pantheon workflow
 
