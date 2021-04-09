@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*Pantheon* is an intersection of reproducibility, workflows and examples. It is a home for examples of
+*Pantheon* is a home for examples of
 reproducible workflows for scientific computing. Projects determine the scope and the design and level 
 of effort needed to publish their workflows.
 The goal is to provide maximum community impact with a minimal set of additional work. 
