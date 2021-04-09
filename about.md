@@ -9,8 +9,8 @@ reproducible workflows for scientific computing. Projects determine the scope an
 of effort needed to publish their workflows.
 The goal is to provide maximum community impact with a minimal set of additional work. 
 
-- A **Project** is a collection of workflows with a well-defined scope and goal, defined by a common workflow template.</li>
-- A **Template** is a workflow pattern. </li>
+- A **Project** is a collection of workflows with a well-defined scope and goal, defined by a common workflow template.
+- A **Template** is a workflow pattern.
 - A **Workflow** is a reproducible set of operations, based on a template. A workflow is defined by a URL for a git repository and a specific  git commit.
 
 ## Using a published Pantheon workflow
