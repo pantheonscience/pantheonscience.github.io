@@ -4,18 +4,20 @@ title: Project Cinema/E4S
 permalink: /e4s/
 ---
 
-### Scope and Goals
+### Overview
 
 The Cinema project is an approach for visualization, analysis and exploration of extreme scale datasets. As part of the ECP project, Cinema is required to provide solutions for a range of science codes and workflows for a range of in-situ and post-processing use cases.
 
 This complex set of operations and interdependencies is embodied in the Cinema/E4S Pantheon project, which creates and tests a set of workflows defined by science applications and analysis/vis operations.
 
+This project uses the **E4S** project to streamline released workflows, and make them both useable and reproducible. 
+**The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
+
+### Scope and Goals
+
 The **scope** of the project is workflows for ECP applications that create, analyze and visualize Cinema databases.
 
 The **goal** of this project is to provide *Pantheon:Release* workflows that record, test and verify end-to-end workflows of use to the ECP project. 
-
-This project uses the **E4S** project to streamline released workflows, and make them both useable and reproducible. 
-**The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
 
 ### Requirements
 
