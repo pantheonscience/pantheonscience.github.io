@@ -1,21 +1,25 @@
 ---
 layout: page
-title: Project E4S 
+title: Project Cinema/E4S 
 permalink: /e4s/
 ---
 
 ### Scope and Goals
 
-The ECP is a complex undertaking, involving a myriad of technologies - specialized hardware, advanced simulations and software, input and configuration information, and complex interactions of many versions of software - all working in concert to perform scientific simulation, analysis and insight.
+The Cinema project is an approach for visualization, analysis and exploration of extreme scale datasets. As part of the ECP project, Cinema is required to provide solutions for a range of science codes and workflows for a range of in-situ and post-processing use cases.
 
-An outstanding need is a way to capture, communicate and validate workflows that cross all of these boundaries, providing both real examples of end-to-end workflows, and permanent records of these workflows for archival purposes The Pantheon and E4S projects are collaborating to advance the integration and testing of capabilities, and to promote understanding of the complex workflows utilized by the ECP project.
+This complex set of operations and interdependencies is embodied in the Cinema/E4S Pantheon project, which creates and tests a set of workflows defined by science applications and analysis/vis operations.
 
+The **scope** of the project is workflows for ECP applications that create, analyze and visualize Cinema databases.
 
+The **goal** of this project is to provide *Pantheon:Release* workflows that record, test and verify end-to-end workflows of use to the ECP project. 
+
+This project uses the **E4S** project to streamline released workflows, and make them both useable and reproducible. 
 **The E4S Project** simplifies the deployment of complex HPC software by creating pre-built binaries of packages that may be installed natively using an E4S build cache, or through a container-based software stack. Containerized deployments may use either full-featured or base E4S containers that may be customized and can use the E4S build cache. E4S uses the Spack package manager for software delivery. 
 
 ### Requirements
 
-This is the approved set of workflows for the E4S collaboration project. The links below provide detailed information and instructions for each workflow, as well as repository and commit ID's.
+This is the approved set of workflows for the Cinema/E4S collaboration project. The links below provide detailed information and instructions for each workflow, as well as repository and commit ID's.
 
 - The workflows in this project are designed to only run on the [Summit](https://www.olcf.ornl.gov/olcf-resources/compute-systems/summit) supercomputer at Oak Ridge National Laboratory.
 - Running these workflows requires an account on Summit. Apply for one [here](https://www.olcf.ornl.gov/for-users/documents-forms/olcf-account-application/).
