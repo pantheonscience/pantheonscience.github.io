@@ -41,6 +41,7 @@ git checkout <commit>
 |-|-|
 |name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent/tree/4bfd76d860ca12b874c1b52efbdc4a29a9fd7dfc)|
 |desc|Pantheon workflow designed for E4S integration|
+|state|release|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent|
 |commit|4bfd76d860ca12b874c1b52efbdc4a29a9fd7dfc|
 |date|08 Apr 2021 11:29:13 MDT|
@@ -49,6 +50,7 @@ git checkout <commit>
 |||
 |-|-|
 |name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/361e33dcb2e76205ce36f36e38c8dcad18191e4c)|
+|state|release|
 |desc|Pantheon sampling workflow|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent|
 |commit|361e33dcb2e76205ce36f36e38c8dcad18191e4c|
