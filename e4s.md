@@ -23,6 +23,7 @@ The **goal** of this project is to provide *Pantheon:Release* workflows that rec
 
 This is the approved set of workflows for the Cinema/E4S collaboration project. The links below provide detailed information and instructions for each workflow, as well as repository and commit ID's.
 
+- The applications and workflows in this project are derived from *open source* workflows, applications and instructions published by collaborating science codes and other ECP capabilities.
 - The workflows in this project are designed to only run on the [Summit](https://www.olcf.ornl.gov/olcf-resources/compute-systems/summit) supercomputer at Oak Ridge National Laboratory.
 - Running these workflows requires an account on Summit. Apply for one [here](https://www.olcf.ornl.gov/for-users/documents-forms/olcf-account-application/).
 
