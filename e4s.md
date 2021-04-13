@@ -49,13 +49,13 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind/tree/74d10446de4e637fe2c8f31c7d2907af155175c7)|
-|desc|NaluWind post-processing workflow|
+|name|[ExaWind-NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/56f31ccb4145cb18a7da85910649a161b29a28c9)|
+|desc|ExaWind-NaluWind post-processing workflow|
 |state|release|
-|repository|https://github.com/cinemascienceworkflows/2021-04_ExaWind|
-|commit|74d10446de4e637fe2c8f31c7d2907af155175c7|
-|date|13 Apr 2021 10:29:44 MDT|
-|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind_Workflow/pantheon_workflow.bib)|
+|repository|https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind|
+|commit|56f31ccb4145cb18a7da85910649a161b29a28c9|
+|date|13 Apr 2021 10:46:17 MDT|
+|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind-NaluWind_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
