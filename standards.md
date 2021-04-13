@@ -4,6 +4,12 @@ title: Pantheon Standards
 permalink: /standards/
 ---
 
+A Pantheon project requires the following to be well-defined:
+
+- **Project** A collection of workflows with a well-defined scope and the design level of effort needed to publish workflows. The goal is to provide maximum community impact with minimal additional work.
+- **Template** A workflow pattern.
+- **Workflow** A reproducible set of operations, based on a template. A workflow is defined by a URL for a git repository and a specific git commit.
+
 Pantheon works with projects to establish a set of publishing criteria for their work. These include such things as who can publish to the project, what is the scope of reproducibility for the project, and which *states* are supported within the project. Pantheon will work with projects to establish the most useful set of constraints, testing and requirements for the project's needs.
 
 ### Pantheon States
