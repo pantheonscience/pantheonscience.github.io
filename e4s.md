@@ -39,16 +39,6 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[ExaWind-NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/de90f7dea7ef0fde42efa74e4f4b43733f33039c)|
-|desc|ExaWind-NaluWind post-processing workflow|
-|state|release|
-|repository|https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind|
-|commit|de90f7dea7ef0fde42efa74e4f4b43733f33039c|
-|date|13 Apr 2021 13:45:00 MDT|
-|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Exawind-NaluWind_Workflow/pantheon_workflow.bib)|
-
-|||
-|-|-|
 |name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent/tree/b387e9092deb2fc4a0194bc38b796935afcfa8ca)|
 |desc|Pantheon workflow designed for E4S integration|
 |state|release|
@@ -56,6 +46,16 @@ To run these workflows, check out the repository at the commit ID provided, then
 |commit|b387e9092deb2fc4a0194bc38b796935afcfa8ca|
 |date|13 Apr 2021 13:45:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Miniapp_Ascent_Workflow/pantheon_workflow.bib)|
+
+|||
+|-|-|
+|name|[ExaWind-NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/de90f7dea7ef0fde42efa74e4f4b43733f33039c)|
+|desc|ExaWind-NaluWind post-processing workflow|
+|state|release|
+|repository|https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind|
+|commit|de90f7dea7ef0fde42efa74e4f4b43733f33039c|
+|date|13 Apr 2021 13:45:00 MDT|
+|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Exawind-NaluWind_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
