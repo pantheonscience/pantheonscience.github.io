@@ -27,13 +27,7 @@ This is the approved set of workflows for the Cinema/E4S collaboration project. 
 - The workflows in this project are designed to only run on the [Summit](https://www.olcf.ornl.gov/olcf-resources/compute-systems/summit) supercomputer at Oak Ridge National Laboratory.
 - Running these workflows requires an account on Summit. Apply for one [here](https://www.olcf.ornl.gov/for-users/documents-forms/olcf-account-application/).
 
-To run these workflows, check out the repository at the commit ID provided, then follow the instructions on the `readme.md` file in the repository:
-
-```
-git clone <repository>
-cd <repository>
-git checkout <commit>
-```
+To run these workflows, check out the repository at the commit ID provided, then follow the instructions on the `readme.md` file in the repository.
 
 ### Pantheon State Requirements
 
