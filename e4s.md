@@ -39,34 +39,33 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent/tree/b387e9092deb2fc4a0194bc38b796935afcfa8ca)|
+|name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent/tree/fa6b09dbf3649fc34751a9cee8ca6f40b769fb5b)|
 |desc|Pantheon workflow designed for E4S integration|
 |state|release|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent|
-|commit|b387e9092deb2fc4a0194bc38b796935afcfa8ca|
-|date|13 Apr 2021 13:45:00 MDT|
+|commit|fa6b09dbf3649fc34751a9cee8ca6f40b769fb5b|
+|date|14 Apr 2021 10:52:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Miniapp_Ascent_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
-|name|[ExaWind-NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/de90f7dea7ef0fde42efa74e4f4b43733f33039c)|
+|name|[ExaWind-NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/e2c45f56d995f1d3bedf522dc8cc8ac91bd3e6d4)|
 |desc|ExaWind-NaluWind post-processing workflow|
 |state|release|
 |repository|https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind|
-|commit|de90f7dea7ef0fde42efa74e4f4b43733f33039c|
-|date|13 Apr 2021 13:45:00 MDT|
+|commit|e2c45f56d995f1d3bedf522dc8cc8ac91bd3e6d4|
+|date|14 Apr 2021 10:52:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Exawind-NaluWind_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
-|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/ff6a2f6fa614cb55c31d4ebf14c3c3a5c6182e8d)|
+|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/102aeff609c31f7e4713cf46d0acfa7caa79f0d0)|
 |desc|Pantheon sampling workflow|
 |state|release|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent|
-|commit|ff6a2f6fa614cb55c31d4ebf14c3c3a5c6182e8d|
-|date|13 Apr 2021 13:45:00 MDT|
+|commit|102aeff609c31f7e4713cf46d0acfa7caa79f0d0|
+|date|14 Apr 2021 10:52:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
-
 
 ### Workflow Template
 
