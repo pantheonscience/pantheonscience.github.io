@@ -80,3 +80,5 @@ This is the template for new workflows used by this project. To start a new work
 
 David Rogers dhr@lanl.gov
 
+Released under: LA-UR-21-23761
+
