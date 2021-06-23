@@ -49,13 +49,13 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[ExaWind-NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/e2c45f56d995f1d3bedf522dc8cc8ac91bd3e6d4)|
+|name|[ExaWind-NaluWind Workflow](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/e2c45f56d995f1d3bedf522dc8cc8ac91bd3e6d4)|
 |desc|ExaWind-NaluWind post-processing workflow|
 |state|release|
 |repository|https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind|
 |commit|e2c45f56d995f1d3bedf522dc8cc8ac91bd3e6d4|
 |date|14 Apr 2021 10:52:00 MDT|
-|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Exawind-NaluWind_Workflow/pantheon_workflow.bib)|
+|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind-NaluWind_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
@@ -66,6 +66,16 @@ To run these workflows, check out the repository at the commit ID provided, then
 |commit|102aeff609c31f7e4713cf46d0acfa7caa79f0d0|
 |date|14 Apr 2021 10:52:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
+
+|||
+|-|-|
+|name|[ExaWind-AMRWind Workflow](https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind/tree/479b252b38e8ebd040d16bd80a61f328caaed740)|
+|desc|ExaWind-AMRWind/Ascent in situ workflow|
+|state|release|
+|repository|https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind|
+|commit|479b252b38e8ebd040d16bd80a61f328caaed740|
+|date|23 Jun 2021 15:22:00 MDT|
+|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind-AMRWind_Workflow/pantheon_workflow.bib)|
 
 ### Workflow Template
 
