@@ -35,7 +35,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 - **Development**. A workflow that is expected to become a **Release**.
 - **Research**. A workflow that has an ECP application and produces a Cinema database, but is not on the **Development/Release** path.
 
-### Available Workflows
+### Available Workflows (Release)
 
 |||
 |-|-|
@@ -44,8 +44,10 @@ To run these workflows, check out the repository at the commit ID provided, then
 |state|release|
 |repository|https://github.com/cinemascienceworkflows/miniapp|
 |commit|7a0d1b5d795c443a775231b3de2356eaa0dbf844|
-|date|08 Dec 2021 15:23:35 MDT|
+|date|08 Dec 2021 15:30:00 MST|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Ascent_Cloverleaf_Workflow/pantheon_workflow.bib)|
+
+### Available Workflows (Development)
 
 |||
 |-|-|
