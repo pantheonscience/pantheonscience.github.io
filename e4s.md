@@ -53,29 +53,39 @@ To run these workflows, check out the repository at the commit ID provided, then
 |desc|Pantheon workflow designed for E4S integration|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent|
-|commit|fa6b09dbf3649fc34751a9cee8ca6f40b769fb5b|
-|date|14 Apr 2021 10:52:00 MDT|
+|commit|e5ee420f4f66c7c37cf6943851156328d22d4fb3|
+|date|2 Aug 2021 15:15:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Miniapp_Ascent_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
-|name|[ExaWind-NaluWind](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/e2c45f56d995f1d3bedf522dc8cc8ac91bd3e6d4)|
+|name|[ExaWind-NaluWind Workflow](https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind/tree/8e3ed0d124192b0f54e17916ad66c0215b2e9558)|
 |desc|ExaWind-NaluWind post-processing workflow|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-04_ExaWind-NaluWind|
-|commit|e2c45f56d995f1d3bedf522dc8cc8ac91bd3e6d4|
-|date|14 Apr 2021 10:52:00 MDT|
-|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Exawind-NaluWind_Workflow/pantheon_workflow.bib)|
+|commit|8e3ed0d124192b0f54e17916ad66c0215b2e9558|
+|date|2 Aug 2021 15:15:00 MDT|
+|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind-NaluWind_Workflow/pantheon_workflow.bib)|
 
 |||
 |-|-|
-|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/102aeff609c31f7e4713cf46d0acfa7caa79f0d0)|
+|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/39b6c8831ae68ed89f449eea0dc0ecc828d03fab)|
 |desc|Pantheon sampling workflow|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent|
-|commit|102aeff609c31f7e4713cf46d0acfa7caa79f0d0|
-|date|14 Apr 2021 10:52:00 MDT|
+|commit|39b6c8831ae68ed89f449eea0dc0ecc828d03fab|
+|date|2 Aug 2021 15:15:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
+
+|||
+|-|-|
+|name|[ExaWind-AMRWind Workflow](https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind/tree/a8b3fce5ff082055e75289c97b180f175422f7c1)|
+|desc|ExaWind-AMRWind/Ascent in situ workflow|
+|state|release|
+|repository|https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind|
+|commit|a8b3fce5ff082055e75289c97b180f175422f7c1|
+|date|2 Aug 2021 15:15:00 MDT|
+|citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind-AMRWind_Workflow/pantheon_workflow.bib)|
 
 ### Workflow Template
 
