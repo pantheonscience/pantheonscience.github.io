@@ -83,7 +83,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 |-|-|
 |name|[ExaWind-AMRWind Workflow](https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind/tree/a8b3fce5ff082055e75289c97b180f175422f7c1)|
 |desc|ExaWind-AMRWind/Ascent in situ workflow|
-|state|release|
+|state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind|
 |commit|a8b3fce5ff082055e75289c97b180f175422f7c1|
 |date|2 Aug 2021 15:15:00 MDT|
