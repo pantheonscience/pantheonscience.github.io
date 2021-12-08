@@ -31,7 +31,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 ### Pantheon State Requirements
 
-- **Release**. A workflow for which there are specific commits for applications, infrastructure and other dependencies within the scope of spack. When possible, these have E4S cache builds available.
+- **Release**. A workflow for which there are specific commits for applications, infrastructure and other dependencies within the scope of spack. When possible, these have E4S cache builds available. The workflow is expected to run to completion on current Summit environment.
 - **Development**. A workflow that is expected to become a **Release**.
 - **Research**. A workflow that has an ECP application and produces a Cinema database, but is not on the **Development/Release** path.
 
