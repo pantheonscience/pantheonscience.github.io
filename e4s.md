@@ -36,6 +36,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 - **Research**. A workflow that has an ECP application and produces a Cinema database, but is not on the **Development/Release** path.
 
 ### Available Workflows (Release)
+
 |||
 |-|-|
 |name|[Ascent Cloverleaf Workflow](https://github.com/cinemascienceworkflows/miniapp/tree/196dfec7f5d5ec606273bec2817a095ff8fd32d6)|
