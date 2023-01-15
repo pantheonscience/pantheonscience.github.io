@@ -42,7 +42,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 |-|-|
 |name|[WarpX Workflow](https://github.com/cinemascienceworkflows/warpx/tree/c09a0dc97853b2de44ab6425260b54deff629438)|
 |desc|Pantheon workflow designed for E4S integration|
-|state|release|
+|state|development|
 |repository|https://github.com/cinemascienceworkflows/warpx|
 |commit|c09a0dc97853b2de44ab6425260b54deff629438|
 |date|14 Jun 2022 12:56:29 MDT|
@@ -52,7 +52,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 |-|-|
 |name|[Ascent Cloverleaf Workflow](https://github.com/cinemascienceworkflows/miniapp/tree/196dfec7f5d5ec606273bec2817a095ff8fd32d6)|
 |desc|Pantheon workflow designed for E4S integration|
-|state|release|
+|state|development|
 |repository|https://github.com/cinemascienceworkflows/miniapp|
 |commit|196dfec7f5d5ec606273bec2817a095ff8fd32d6|
 |date|02 Mar 2022 14:00:50 MDT|
