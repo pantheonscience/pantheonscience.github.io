@@ -5,3 +5,5 @@
 - [![development](https://pantheonscience.github.io/states/development.png)](https://pantheonscience.github.io/standards/)
 
 - [![research](https://pantheonscience.github.io/states/research.png)](https://pantheonscience.github.io/standards/)
+
+- [![archive](https://pantheonscience.github.io/states/archive.png)](https://pantheonscience.github.io/standards/)
