@@ -17,7 +17,7 @@ This project uses the **E4S** project to streamline released workflows, and make
 
 The **scope** of the project is workflows for ECP applications that create, analyze and visualize Cinema databases. They are intended to run quickly in an interactive shell, so you can see the operations as they happen. The workflows are designed to run end-to-end in 5-10 minutes.
 
-The **goal** of this project is to provide *Pantheon:Release* workflows that record, test and verify end-to-end workflows of use to the ECP project. 
+The **goal** of this project is to provide *Pantheon:Release* workflows that record, test and verify end-to-end Cinema-based workflows of use to the ECP project. 
 
 ### Requirements
 
