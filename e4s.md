@@ -34,8 +34,9 @@ To run these workflows, check out the repository at the commit ID provided, then
 - **Release**. A workflow for which there are specific commits for applications, infrastructure and other dependencies within the scope of spack. When possible, these have E4S cache builds available. The workflow is expected to run to completion on current Summit environment.
 - **Development**. A workflow that is expected to become a **Release**.
 - **Research**. A workflow that has an ECP application and produces a Cinema database, but is not on the **Development/Release** path.
+- **Archive**. A workflow that is being preserved for historical purposes, but is no longer supported. 
 
-### Available Workflows (Release)
+### Available Workflows (Archive)
 
 
 |||
@@ -67,8 +68,6 @@ To run these workflows, check out the repository at the commit ID provided, then
 |commit|cfc4a6143cbbadc79b0769babc86d7feb5d791bc|
 |date|01 Feb 2022 16:07:52 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind-NaluWind_Workflow/pantheon_workflow.bib)|
-
-### Available Workflows (Development)
 
 |||
 |-|-|
@@ -111,7 +110,7 @@ This is the template for new workflows used by this project. To start a new work
 
 ### Contact
 
-David Rogers dhr@lanl.gov
+pantheon-help@lanl.gov
 
 Released under: LA-UR-21-23761
 
