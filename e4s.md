@@ -51,12 +51,12 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[Ascent Cloverleaf Workflow](https://github.com/cinemascienceworkflows/miniapp/tree/196dfec7f5d5ec606273bec2817a095ff8fd32d6)|
+|name|[Ascent Cloverleaf Workflow](https://github.com/cinemascienceworkflows/miniapp/tree/7c14c5b55d1f776aa6a7975261cbf57b01b5439f)|
 |desc|Pantheon workflow designed for E4S integration|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/miniapp|
-|commit|196dfec7f5d5ec606273bec2817a095ff8fd32d6|
-|date|02 Mar 2022 14:00:50 MDT|
+|commit|7c14c5b55d1f776aa6a7975261cbf57b01b5439f|
+|date|Sep 24 11:31:24 2025 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Ascent_Cloverleaf_Workflow/pantheon_workflow.bib)|
 
 |||
