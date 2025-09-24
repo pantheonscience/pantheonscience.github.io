@@ -81,11 +81,11 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/39b6c8831ae68ed89f449eea0dc0ecc828d03fab)|
+|name|[Nyx Ascent Workflow](https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent/tree/77c6ba33fc71a09eae84347d6c5a6dbf177a9b54)|
 |desc|Pantheon sampling workflow|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent|
-|commit|39b6c8831ae68ed89f449eea0dc0ecc828d03fab|
+|commit|77c6ba33fc71a09eae84347d6c5a6dbf177a9b54|
 |date|2 Aug 2021 15:15:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
 
