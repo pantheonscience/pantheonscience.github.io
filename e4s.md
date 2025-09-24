@@ -41,12 +41,12 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[WarpX Workflow](https://github.com/cinemascienceworkflows/warpx/tree/c09a0dc97853b2de44ab6425260b54deff629438)|
+|name|[WarpX Workflow](https://github.com/cinemascienceworkflows/warpx/tree/67fc214abd1dbafdb26a1cd7527e3904389ad389)|
 |desc|Pantheon workflow designed for E4S integration|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/warpx|
-|commit|c09a0dc97853b2de44ab6425260b54deff629438|
-|date|14 Jun 2022 12:56:29 MDT|
+|commit|67fc214abd1dbafdb26a1cd7527e3904389ad389|
+|date|Sep 23 16:55:06 2025 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/WarpX_PostProcessing_Workflow/pantheon_workflow.bib)|
 
 |||
