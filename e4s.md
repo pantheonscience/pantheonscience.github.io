@@ -76,7 +76,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent|
 |commit|a78517a534390da7ab0ec980a3cbde26fe3db08a|
-|date|2 Aug 2021 15:15:00 MDT|
+|date|Sep 24 11:37:25 2025 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Miniapp_Ascent_Workflow/pantheon_workflow.bib)|
 
 |||
@@ -86,7 +86,7 @@ To run these workflows, check out the repository at the commit ID provided, then
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Nyx-Ascent|
 |commit|77c6ba33fc71a09eae84347d6c5a6dbf177a9b54|
-|date|2 Aug 2021 15:15:00 MDT|
+|date|Sep 24 11:40:07 2025 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Nyx_Ascent_Workflow/pantheon_workflow.bib)|
 
 |||
