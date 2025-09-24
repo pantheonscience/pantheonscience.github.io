@@ -91,12 +91,12 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[ExaWind-AMRWind Workflow](https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind/tree/a8b3fce5ff082055e75289c97b180f175422f7c1)|
+|name|[ExaWind-AMRWind Workflow](https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind/tree/163cbf5cd8d268cb170a578daa697b837ef6f394)|
 |desc|ExaWind-AMRWind/Ascent in situ workflow|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-05_ExaWind-AMRWind|
-|commit|a8b3fce5ff082055e75289c97b180f175422f7c1|
-|date|2 Aug 2021 15:15:00 MDT|
+|commit|163cbf5cd8d268cb170a578daa697b837ef6f394|
+|date|Sep 24 11:46:42 2025 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/ExaWind-AMRWind_Workflow/pantheon_workflow.bib)|
 
 ### Workflow Template
