@@ -71,11 +71,11 @@ To run these workflows, check out the repository at the commit ID provided, then
 
 |||
 |-|-|
-|name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent/tree/fa6b09dbf3649fc34751a9cee8ca6f40b769fb5b)|
+|name|[Ascent Miniapp Workflow](https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent/tree/a78517a534390da7ab0ec980a3cbde26fe3db08a)|
 |desc|Pantheon workflow designed for E4S integration|
 |state|development|
 |repository|https://github.com/cinemascienceworkflows/2021-04_Miniapp-Ascent|
-|commit|e5ee420f4f66c7c37cf6943851156328d22d4fb3|
+|commit|a78517a534390da7ab0ec980a3cbde26fe3db08a|
 |date|2 Aug 2021 15:15:00 MDT|
 |citation|[citation](https://github.com/pantheonscience/workflows/blob/master/entry/E4S/Miniapp_Ascent_Workflow/pantheon_workflow.bib)|
 
